@@ -1,4 +1,5 @@
-const objet = require("./information");
+const object = require("./information");
+console.log("Name: " + object.object.nom + "  Campus: " + object.object.campus);
 
 var cowsay = require("cowsay");
 console.log(

@@ -4,5 +4,5 @@ let object = {
 };
 
 module.exports = {
-  object,
+  object: object,
 };
